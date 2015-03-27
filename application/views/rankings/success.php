@@ -1,0 +1,1 @@
+<img src="<?echo $img; ?>" width="150" height="150"/>
